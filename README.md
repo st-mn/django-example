@@ -1,14 +1,19 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fpython%2Fdjango&demo-title=Django%20%2B%20Vercel&demo-description=Use%20Django%204%20on%20Vercel%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fdjango-template.vercel.app%2F&demo-image=https://assets.vercel.com/image/upload/v1669994241/random/django.png)
-
-# Django + Vercel
+# Django Python Web App Example - Custom base trained Chatbot 
 
 This example shows how to use Django 4 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
 
-## Demo
+## Preview
 
-https://django-template.vercel.app/
+https://django-example-ten.vercel.app/
 
-## How it Works
+## Technologies
+
+- Python
+- Django
+- OpenAI
+- Vercel 
+
+## Deployment Config
 
 Our Django application, `example` is configured as an installed application in `vercel_app/settings.py`:
 
