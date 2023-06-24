@@ -1,4 +1,4 @@
-# Django Python Web App Example - Custom base trained Chatbot 
+# Django Python Web App Example - Custom base trained Chatbot [WIP]
 
 This example shows how to use Django 4 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
 
